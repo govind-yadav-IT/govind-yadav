@@ -1,51 +1,32 @@
 # Govind Yadav
 
-### AI Infrastructure Engineer
+### BSc IT Student | Cloud, Systems & AI Infrastructure
 
-Building toward **high-performance AI systems, inference infrastructure, and scalable compute platforms.**
+BSc IT student focused on building a strong foundation in **software, Linux systems, cloud infrastructure, automation, and containerization** through hands-on projects.
 
-I’m a BSc IT student focused on developing strong foundations in **systems engineering, cloud infrastructure, containerization, and AI inference**.
-
-Currently learning by building practical infrastructure and software projects, with a long-term focus on the systems that make AI applications reliable, efficient, and scalable.
+Currently exploring **AI systems and AI infrastructure**, with a long-term interest in the engineering systems behind efficient and scalable AI applications.
 
 ---
 
-## What I’m Building Toward
+## Technical Focus
 
-**AI Systems → Inference → Infrastructure → Performance**
+**Programming**
+Python · Bash
 
-My current focus is developing the engineering foundations required to work on AI infrastructure:
+**Systems**
+Linux · Shell Scripting · SSH · Cron
 
-* Linux & systems
-* Python & C++
-* Docker & containerization
-* Cloud infrastructure
-* Infrastructure as Code
-* CI/CD
-* Distributed systems
-* Model serving & inference
-* GPU/compute infrastructure
-* Performance & optimization
-
----
-
-## Current Stack
-
-**Languages**
-
-`Python` `C++` `Bash`
+**Cloud**
+AWS EC2 · IAM · S3 · CloudWatch
 
 **Infrastructure**
+Terraform · Infrastructure as Code
 
-`Linux` `Docker` `AWS` `Terraform`
+**Containers & Web**
+Docker · Docker Compose · Nginx
 
-**DevOps**
-
-`Git` `GitHub Actions` `CI/CD`
-
-**AI Systems — Learning**
-
-`Model Serving` `Inference` `GPU Computing` `Distributed Systems`
+**Development & Automation**
+Git · GitHub · GitHub Actions · CI/CD
 
 ---
 
@@ -53,56 +34,83 @@ My current focus is developing the engineering foundations required to work on A
 
 ### Infrastructure Delivery Platform
 
-Infrastructure provisioning and deployment project using Terraform, AWS, Docker Compose, Nginx, monitoring, and CI/CD.
+End-to-end infrastructure and deployment project built to gain practical experience with AWS, Terraform, Docker, CI/CD, monitoring, and automation.
 
-### Linux Automation
+**Stack:** Terraform · AWS EC2 · IAM · Docker · Docker Compose · Nginx · GitHub Actions · Bash · Cron · S3 · CloudWatch
 
-Practical Bash/Linux scripts for system administration and automation.
-
-### Docker & Containerization
-
-Hands-on containerization and multi-container application projects using Docker and Docker Compose.
-
-### Data Processing
-
-Python-based data cleaning and processing work using real-world datasets.
-
----
-
-## Engineering Direction
+**Deployment flow:**
 
 ```text
-Software Engineering
-        ↓
-Systems Engineering
-        ↓
-Cloud & Infrastructure
-        ↓
-AI Systems
-        ↓
-AI Inference
-        ↓
-AI Infrastructure Engineering
+GitHub
+   ↓
+GitHub Actions
+   ↓
+SSH
+   ↓
+AWS EC2
+   ↓
+Docker
+   ↓
+Nginx
+   ↓
+Application
 ```
+
+[View Repository](https://github.com/govind-yadav-IT/infrastructure-delivery-platform)
+
+### System Operations Toolkit
+
+Bash-based Linux automation toolkit for system monitoring and operational analysis.
+
+**Focus:** CPU, memory and disk monitoring · threshold-based alerts · log analysis · system reports · shell automation
+
+### Terraform Infrastructure as Code
+
+Hands-on Terraform project for automating AWS infrastructure provisioning.
+
+**Focus:** EC2 · Security Groups · Variables · Outputs · S3 remote state
+
+### Multi-Container Docker Application
+
+Docker Compose project built to understand multi-container application deployment.
+
+**Focus:** Docker Compose · Nginx · port mapping · volumes · restart policies
 
 ---
 
 ## Currently Learning
 
-I'm currently strengthening my fundamentals in:
-
 * Python
-* Data & ML foundations
-* Linux systems
+* Data and ML fundamentals
+* Linux and systems fundamentals
 * Cloud infrastructure
-* Docker & containerization
 * Infrastructure as Code
-* AI inference systems
-
-The goal is simple: **learn the fundamentals → build → measure → improve → document.**
+* CI/CD
+* AI systems fundamentals
+* AI inference concepts
 
 ---
 
-## Connect
+## Direction
+
+My current focus is building strong engineering fundamentals across **software, systems, and infrastructure**, with the long-term goal of working in **AI systems and AI infrastructure**.
+
+```text
+Software
+   ↓
+Linux & Systems
+   ↓
+Cloud & Infrastructure
+   ↓
+AI Systems
+   ↓
+AI Inference
+   ↓
+AI Infrastructure
+```
+
+---
+
+## Profiles
 
 [LinkedIn](https://www.linkedin.com/in/govind-yadav-IT/) · [GitHub](https://github.com/govind-yadav-IT/)
