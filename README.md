@@ -1,11 +1,28 @@
 # Govind Yadav
 
-### BSc IT Student | Cloud, Systems & AI Infrastructure
+**BSc IT Student | AI Systems & Inference Engineering**
 
-BSc IT student focused on building a strong foundation in **software, Linux systems, cloud infrastructure, automation, and containerization** through hands-on projects.
+Building strong foundations in **software, Linux systems, cloud infrastructure, and performance engineering**, while developing **AICS — AI Inference & Computing Stack**, a long-term engineering project focused on understanding and building efficient AI inference systems.
 
-Currently exploring **AI systems and AI infrastructure**, with a long-term interest in the engineering systems behind efficient and scalable AI applications.
+My approach is simple: **learn the underlying systems by building them.**
 
+**Current direction**
+
+```text
+Software & Programming
+        ↓
+Linux & Systems
+        ↓
+Cloud & Infrastructure
+        ↓
+AI Systems
+        ↓
+AI Inference
+        ↓
+GPU Computing & CUDA
+        ↓
+Distributed AI Systems
+```
 ---
 
 ## Technical Focus
