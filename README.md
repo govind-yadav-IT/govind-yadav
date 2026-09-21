@@ -6,7 +6,7 @@ Building strong foundations in **software, Linux systems, cloud infrastructure, 
 
 My approach is simple: **learn the underlying systems by building them.**
 
-**Current direction**
+## Current Direction
 
 ```text
 Software & Programming
@@ -23,9 +23,8 @@ GPU Computing & CUDA
         ↓
 Distributed AI Systems
 ```
----
 
-## ## Technical Focus
+## Technical Focus
 
 **Programming**  
 Python · Bash
@@ -44,9 +43,6 @@ Git · GitHub · GitHub Actions
 
 **Exploring**  
 AI Systems · AI Inference · Performance Engineering · GPU Computing
----
-
-## Selected Projects
 
 ## Selected Projects
 
@@ -118,32 +114,31 @@ AI Infrastructure
 
 The project will grow through progressively deeper work in inference performance, GPU computing, runtime systems, and distributed AI infrastructure.
 
----
-
 ## Currently Learning
 
 ### Foundations
+
 Python · Linux · Systems Programming · Networking · Git
 
 ### Infrastructure
+
 AWS · Terraform · Docker · CI/CD · Infrastructure Automation
 
 ### AI Systems
+
 Neural Network Fundamentals · AI Inference · Inference Performance · Model Execution
 
 ### Next
+
 C/C++ · GPU Architecture · CUDA · Parallel Computing
 
 > The goal is to progress from understanding software and operating systems to understanding what happens underneath modern AI workloads.
----
-
-## Direction
 
 ## Direction
 
 I am building toward **AI systems and inference engineering**, with a focus on understanding the complete computing stack behind modern AI.
 
-```text id="9s2kq1"
+```text
 Software
    ↓
 Operating Systems
